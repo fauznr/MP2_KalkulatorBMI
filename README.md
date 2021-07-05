@@ -1,4 +1,4 @@
-# BMI Calculator
+# BMI Calculator TUGAS PEKAN 12
 
 Nama    : Fauzan Rizalul Ulum
 NPM     : 18111424
